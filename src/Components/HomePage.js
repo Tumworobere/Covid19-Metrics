@@ -37,7 +37,7 @@ const HomePage = () => {
 
   return (
     <>
-      <div className="country-name">Active Corona Cases </div>
+      <div className="country-name">Active Covid19 Cases </div>
       <input className="search" type="text" id="input-country" placeholder="Country name.." />
       <div className="countries-con">
         {covidCases}
