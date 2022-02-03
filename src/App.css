@@ -77,7 +77,7 @@ h3 {
 
 .main-c {
   height: 100vh;
-  background-image: url(./Common/corona-5090522_1280.jpg);
+  background-image: url(./images/corona-5090522_1280.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -86,7 +86,7 @@ h3 {
 
 .country-heading {
   height: 25vh;
-  background-image: url(./Common/who_share.jpg);
+  background-image: url(./images/who_share.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -110,7 +110,7 @@ h3 {
   height: 20vh;
   width: 45vw;
   background-color: var(--primary-color);
-  background-image: url(./Common/imageedit_4_5887518972.jpg);
+  background-image: url(./images/imageedit_4_5887518972.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 5px;
@@ -172,7 +172,7 @@ h3 {
   font-family: Cambria, Cochin, Georgia, serif;
   font-size: 16px;
   background-position: right;
-  background-image: url('./Common/search.png');
+  background-image: url('./images/search.png');
   background-size: 30px;
   background-repeat: no-repeat;
 }
@@ -203,7 +203,7 @@ h3 {
   display: flex;
   justify-content: center;
   background-color: var(--secondary-color);
-  background-image: url(./Common/imageedit_1_7542201164.jpg);
+  background-image: url(./images/imageedit_1_7542201164.jpg);
   filter: blur(8px);
   -webkit-filter: blur(8px);
   background-repeat: no-repeat;
