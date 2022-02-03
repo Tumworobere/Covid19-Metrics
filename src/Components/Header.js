@@ -8,7 +8,7 @@ export default function Header() {
       <nav className="nav">
         <div className="lessThan">
           <Link to="/"><FaLessThan /></Link>
-          <h1 className="logo">2022</h1>
+          <h1 className="logo">2020</h1>
         </div>
 
         <h3>Most views</h3>
