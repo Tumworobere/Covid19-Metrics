@@ -1,17 +1,17 @@
 const countries = () => Promise.resolve({
   data: [
     {
-      code: 'UG',
-      name: 'Uganda',
+      code: 'AF',
+      name: 'Afganistan',
       latest_data: {
-        recovered: 623527,
+        recovered: 123527,
       },
     },
     {
-      code: 'SA',
-      name: 'South Africa',
+      code: 'ZM',
+      name: 'Zambia',
       latest_data: {
-        recovered: 224553,
+        recovered: 204553,
       },
     },
   ],
