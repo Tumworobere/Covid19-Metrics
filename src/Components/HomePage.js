@@ -49,11 +49,9 @@ const HomePage = () => {
       <div className="country-heading">
         <h2 className="line-1 anim-typewriter">Active Covid19 Cases </h2>
       </div>
-
-      <input className="search" type="text" id="input-country" placeholder="Country name.." onKeyDown={searchCountry} />
-
       <div className="countries-con">
         {covidCases}
+        <input className="search" type="text" id="input-country" placeholder="Country name.." onKeyDown={searchCountry} />
       </div>
     </div>
 
