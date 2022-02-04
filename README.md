@@ -23,8 +23,7 @@ I will select an API that provides numeric data about a topic that i like and th
 - Gitflow
 - Visual Studio Code
 ## Live Demo
-- [netlify](https://determined-aryabhata-b6bc71.netlify.app)
-- [github](https://somdotta07.github.io/react-redux-capstone/)
+- [netlify](https://covid19metrics.netlify.app/)
 
 
 ## Getting Started
