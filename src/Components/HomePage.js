@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { getData } from '../Redux/home/home';
+import { getData } from '../Redux/home';
 
 const HomePage = () => {
   const dispatch = useDispatch();
@@ -47,7 +47,7 @@ const HomePage = () => {
   return (
     <div className="main-c">
       <div className="country-heading">
-        <h2 className="line-1 anim-typewriter">Active Corona Cases </h2>
+        <h2 className="line-1 anim-typewriter">Active Covid19 Cases </h2>
       </div>
 
       <input className="search" type="text" id="input-country" placeholder="Country name.." onKeyDown={searchCountry} />
