@@ -47,7 +47,7 @@ const HomePage = () => {
   return (
     <div className="main-c">
       <div className="country-heading">
-        <h2 className="line-1 anim-typewriter">Active Covid19 Cases </h2>
+        <h2 className="line-1 anim-typewriter">Covid is real and it kills,Kindy follow SOPS. </h2>
       </div>
       <div className="countries-con">
         {covidCases}
