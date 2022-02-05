@@ -11,7 +11,7 @@ export default function Header() {
           <h1 className="logo">2022</h1>
         </div>
 
-        <h3>Covid19 Data</h3>
+        <h3>Covid Data</h3>
         <div className="mic"><FaMicrophone /></div>
         <div className="settings"><FiSettings /></div>
       </nav>
