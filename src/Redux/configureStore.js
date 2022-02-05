@@ -1,6 +1,6 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
-import covidReducer from './home';
+import covidReducer from './home/home';
 
 const reducer = combineReducers({
   covidReducer,
