@@ -40,7 +40,7 @@ h3 {
 }
 
 .line-1 {
-  color: var(--primary-color);
+  color:rgb(0, 0, 0);
   overflow: hidden;
   border-right: 0.15em solid orangered;
   white-space: nowrap;
