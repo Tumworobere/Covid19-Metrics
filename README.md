@@ -14,7 +14,7 @@ I will select an API that provides numeric data about a topic that i like and th
 ![DetailsPage](https://user-images.githubusercontent.com/57252352/152641306-979b5182-db87-4a46-8557-fa4a1c89bb60.jpg)
 
 ## Video
-- [Link]()
+- [Link](https://www.loom.com/share/5cd3f8fe317d470cb89d75f05bbb329e)
 ## Built With
 - React-Redux
 - CSS3
