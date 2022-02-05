@@ -47,11 +47,13 @@ const HomePage = () => {
   return (
     <div className="main-c">
       <div className="country-heading">
-        <h2 className="line-1 anim-typewriter">Covid is real and it kills,Kindy follow SOPS. </h2>
+        <h2 className="line-1 anim-typewriter">Covid is real and it kills, Kindly follow  SOPS </h2>
       </div>
+
+      <input className="search" type="text" id="input-country" placeholder="Country name.." onKeyDown={searchCountry} />
+
       <div className="countries-con">
         {covidCases}
-        <input className="search" type="text" id="input-country" placeholder="Country name.." onKeyDown={searchCountry} />
       </div>
     </div>
 
