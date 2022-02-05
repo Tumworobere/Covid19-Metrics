@@ -8,10 +8,10 @@ I will select an API that provides numeric data about a topic that i like and th
 
 ## Screenshots
 - Home Page
-![localhost_3000_(Moto G4)](https://user-images.githubusercontent.com/84907743/147141196-d0fca1d3-bcbb-4fd3-9b20-2d1c80dff5be.png)
+![HomePage](https://user-images.githubusercontent.com/57252352/152641274-2358b765-5dcd-464a-81f5-1a4b68974b4f.jpg)
 
 - Details Page
-![localhost_3000_(Moto G4) (1)](https://user-images.githubusercontent.com/84907743/147141452-c74d070f-1399-48b6-a61c-9f4ac66e6554.png)
+![DetailsPage](https://user-images.githubusercontent.com/57252352/152641306-979b5182-db87-4a46-8557-fa4a1c89bb60.jpg)
 
 ## Video
 - [Link]()
